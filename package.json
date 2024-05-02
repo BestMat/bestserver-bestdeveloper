@@ -1,0 +1,30 @@
+{
+  "name": "bestserver-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BestMat/bestserver-bestdeveloper.git"
+  },
+  "keywords": [
+    "bestmat",
+    "bestdeveloper",
+    "bestserver",
+    "bestdodger",
+    "yuvanthb",
+    "uma"
+  ],
+  "author": "Yuvanth B",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BestMat/bestserver-bestdeveloper/issues"
+  },
+  "homepage": "https://github.com/BestMat/bestserver-bestdeveloper#readme",
+  "bin": {
+    "bestserver": "./cli/index.js"
+  }
+}
